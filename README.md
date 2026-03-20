@@ -1,8 +1,8 @@
 # Assessments-Capg
 Assessments for the training
 
-- Week 1 : [Click here](https://github.com/I-Ishika-012/Assessments-Capg/tree/main/Weekly%20Assessments/Week1)
+- Week 1 ~ 14 March 2026 : [Click here](https://github.com/I-Ishika-012/Assessments-Capg/tree/main/Weekly%20Assessments/Week1)
 
-- Week 2: [Click here](https://github.com/I-Ishika-012/Assessments-Capg/tree/main/Weekly%20Assessments/Week2)
+- Week 2 ~ 20 March 2026 : [Click here](https://github.com/I-Ishika-012/Assessments-Capg/tree/main/Weekly%20Assessments/Week2)
 
 - Alt Repo Week 2: [Click here](https://github.com/I-Ishika-012/Assessment-Capg-Week2)
